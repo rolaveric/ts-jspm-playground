@@ -1,0 +1,12 @@
+{
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "baconjs": "npm:baconjs@^0.7.70",
+      "ts": "github:frankwallis/plugin-typescript@^2.0.4"
+    },
+    "devDependencies": {
+      "typescript": "github:mhegazy/typescript@v1.5-beta2"
+    }
+  }
+}
