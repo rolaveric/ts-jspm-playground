@@ -2,11 +2,22 @@
   "jspm": {
     "directories": {},
     "dependencies": {
-      "baconjs": "npm:baconjs@^0.7.70",
-      "ts": "github:frankwallis/plugin-typescript@^2.0.4"
+      "baconjs": "npm:baconjs@^0.7.70"
     },
     "devDependencies": {
       "typescript": "github:mhegazy/typescript@v1.5-beta2"
     }
+  },
+  "devDependencies": {
+    "es6-module-loader": "^0.17.3",
+    "http-server": "^0.8.0",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.3",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "karma-systemjs": "^0.7.1",
+    "mocha": "^2.2.5",
+    "phantomjs": "^1.9.17",
+    "phantomjs-polyfill": "0.0.1"
   }
 }

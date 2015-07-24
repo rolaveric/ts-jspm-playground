@@ -1,5 +1,4 @@
 node_modules
-www/jspm_packages
 jspm_packages
-www/build.js
-www/build.js.map
+build.js
+build.js.map
